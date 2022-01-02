@@ -1,0 +1,2 @@
+tutorial followed: https://hannahrobot.com/2020/12/04/build-among-us-live-multiplayer-phaser-3-socket/
+time it took: ~7 hours
